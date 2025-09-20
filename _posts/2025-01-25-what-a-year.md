@@ -60,7 +60,7 @@ Scott and I had so much fun at EPCOT, we decided to try getting to know one anot
 
 I was a little disheartened by how "third world country" St. Maarten, Amber Cove and San Juan were, though. Something about seeing all of that poverty, and not being able to really do anything about it, bummed me out. However, St. Thomas fed us one of the best meals we experienced on this 9-day vaca by tickling our tastebuds at [Agave](https://www.agavevi.com/) Mexican restaurant. I can't say enough about that food, and it was within walking distance of the ship. The restaurant wasn't fancy, but the flavors were off the charts. Scott hired a limo driver to tour us around St. Thomas. We fell in love with Megan's Bay and the laid back culture of the island. It's one we will definitely be revisiting.
 
-![Carnival's Chef's Table Appetizer](/assets/images/blog/3400c2_b6a88b0510384670a754e0191a74fb4b~mv2.jpg)
+![Carnival's Chef's Table Appetizer](/assets/images/blog/3400c2_b6a88b0510384670a754e0191a74fb4b~mv2.webp)
 
 Carnival's Chef's Table Appetizer
 
@@ -92,7 +92,7 @@ I'd be lying if I told you I wasn't tired from the whirlwind of the year, but oh
 
 Scott, who is the ultimate logistics coordinator, simultaneously found us a beautiful home to rent in Columbus, and coordinated the move and combining of our two households for October. We were legally married on October 7 at the Columbus courthouse, and Caryn and I moved in with him and the kids later that month. Much to the delight of Caryn, Evie brought along her cat, Beans, to join our cat, Nero. They are the perfect compliment to our adorable, historic rental in a coveted area of the city.
 
-![Chandler & Cadie celebrated their first wedding anniversary, and their 9th year together!](/assets/images/blog/3400c2_00c3c8427e7e43fb9e8ba8369506a5b5~mv2.jpg)
+![Chandler & Cadie celebrated their first wedding anniversary, and their 9th year together!](/assets/images/blog/3400c2_00c3c8427e7e43fb9e8ba8369506a5b5~mv2.webp)
 
 Chandler & Cadie celebrated their first wedding anniversary, and their 9th year together!
 
