@@ -18962,6 +18962,12 @@ body.white-version .rn-btn-ulderline {
 .white-version .modal .modal-body .news-details h2 span {
   color: var(--color-body-white);
 }
+.white-version .modal .modal-body .news-details a {
+  color: var(--color-primary);
+}
+.white-version .modal .modal-body .news-details a:hover {
+  color: var(--color-heading-wv);
+}
 .white-version .modal .modal-body .comment-inner .title {
   color: var(--color-heading-wv);
 }
