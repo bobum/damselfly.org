@@ -1,0 +1,30 @@
+# _config.yml
+title: "Casey Davis"
+tagline: "Chiristian, Wife, Mother, Author"
+description: "Casey Davis — Chiristian, Wife, Mother, Author" # Helps SEO
+baseurl: ""                   # Critical for GitHub Pages
+url: "https://damselfly.org" # Your live URL
+
+permalink: /blog/:title/
+excerpt_separator: "<!--more-->"
+
+# Liquid filter (replaces plugin)
+liquid:
+  filters:
+    reading_time: |
+      def reading_time(input)
+        words = input.to_s.gsub(/<[^>]*>/, '').split.size # Strip HTML tags
+        minutes = (words / 180.0).ceil
+        "#{minutes} min read"
+      end
+
+plugins:
+  - jekyll-seo-tag  # Auto-generates meta tags
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
