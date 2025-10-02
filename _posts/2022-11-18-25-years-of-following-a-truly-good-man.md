@@ -7,7 +7,7 @@ description: "This month marks 25 years since I chose to follow Jesus Christ & l
 image: /assets/images/blog/3400c2_72c7eedd11774ee2bc8fccec0b487b2a~mv2.png
 reading_time: 7
 ---
-# 25 Years of Following A Truly Good Man
+
 This month marks 25 years since I chose to follow Jesus Christ & learn His ways.
 
 ![ree](/assets/images/blog/3400c2_72c7eedd11774ee2bc8fccec0b487b2a~mv2.png)
