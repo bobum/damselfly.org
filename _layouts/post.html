@@ -13,6 +13,27 @@ title: "Blog Post"
     text-decoration: underline; /* Keep underline on hover if desired, or remove for no underline */
   }
 </style>
+        <!-- Start bread vrumb area -->
+        <div class="breadcrumb-area rn-section-gap breadcrumb-style-one">
+            <div class="plr--85">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div class="breadcrumb-inner">
+                            <h1 class="title">{{ page.title }}</h1>
+                            {% if page.categories %}
+                            <ul class="page-list">
+                              {% for category in page.categories %}
+                                <li>{{ category }}</li>                                
+                              {% unless forloop.last %}<li class="separator"></li>{% endunless %}
+                              {% endfor %}
+                            </ul>
+                            {% endif %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Start bread vrumb area -->
         <!-- Start News Area -->
         <div class="rn-blog-area rn-section-gap" id="blog">
             <div class="container">
