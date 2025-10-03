@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Casey Hendrix Sep 1, 2023 13 min read"
 image: /assets/images/blog/3400c2_4ce7c61b51364021ac08dec6964c6fa2~mv2.jpg
 reading_time: 18
+categories: ["Relationships"]
 ---
 
 *   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)

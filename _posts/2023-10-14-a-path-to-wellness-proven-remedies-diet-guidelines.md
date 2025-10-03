@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "There are many opinions about the origins of the Covid19 virus, our government and the ingredients housed in the various vaccines available. I won't speak to those because my webs…"
 image: /assets/images/blog/3400c2_0eb32e9c7847455cab3cae9554e6b113~mv2.png
 reading_time: 9
+categories: ["Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/3400c2_0eb32e9c7847455cab3cae9554e6b113~mv2.png)

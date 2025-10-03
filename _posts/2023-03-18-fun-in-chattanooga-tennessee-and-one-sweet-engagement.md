@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "This past weekend my son, Chandler, decided to propose to his girlfriend of seven years, Cadie. I knew he was planning the proposal, as I had gone shopping with him for the ring t…"
 image: /assets/images/blog/3400c2_667455a16d3a474e9a7cf8b7f2dc59d6~mv2.png
 reading_time: 11
+categories: ["Food & Travel"]
 ---
 
 ![ree](/assets/images/blog/3400c2_667455a16d3a474e9a7cf8b7f2dc59d6~mv2.png)

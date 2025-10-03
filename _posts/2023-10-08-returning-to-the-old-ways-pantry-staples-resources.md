@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Casey Hendrix Oct 8, 2023 4 min read"
 image: /assets/images/blog/3400c2_0e1801483d8a414e9d697248774af3c6~mv2.png
 reading_time: 8
+categories: ["52 Week Blog Challenge", "Christianity", "Food & Travel", "Relationships", "Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/3400c2_0e1801483d8a414e9d697248774af3c6~mv2.png)

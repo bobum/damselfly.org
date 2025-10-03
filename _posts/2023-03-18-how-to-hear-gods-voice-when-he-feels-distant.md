@@ -6,6 +6,7 @@ last_modified_at: 2023-03-18
 description: "Casey Hendrix Dec 21, 2022 1 min read"
 image: /assets/images/blog/default.jpg
 reading_time: 1
+categories: ["Christianity"]
 ---
 
 *   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)

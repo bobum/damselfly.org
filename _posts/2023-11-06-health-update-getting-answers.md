@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "I'm almost three months in to my treatment protocol. I've only broken my diet twice (for my son's wedding shower and wedding), and I've continued taking the medications and suppli…"
 image: /assets/images/blog/3400c2_33374d02849b4d61a0778a034ad3f49c~mv2.png
 reading_time: 5
+categories: ["Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/3400c2_33374d02849b4d61a0778a034ad3f49c~mv2.png)

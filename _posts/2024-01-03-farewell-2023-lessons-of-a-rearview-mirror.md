@@ -6,6 +6,7 @@ last_modified_at: 2024-10-03
 description: "Don't ask how a watch works. Just keep a watch on the time."
 image: /assets/images/blog/25ded0e4f26346818be6e88171081160.jpg
 reading_time: 10
+categories: ["Christianity"]
 ---
 
 ![ree](/assets/images/blog/25ded0e4f26346818be6e88171081160.jpg)

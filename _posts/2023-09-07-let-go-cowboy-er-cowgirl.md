@@ -6,6 +6,7 @@ last_modified_at: 2024-09-19
 description: "Frank T. Hopkins, was an American Horseman who is \"reputed to have won more than 400 longdistance races\" (Wikipedia). A movie named after his beloved mustang horse, Hidalgo), was …"
 image: /assets/images/blog/3400c2_5909db8f3b274780be242569f27a4ef9~mv2.png
 reading_time: 9
+categories: ["Christianity"]
 ---
 
 ![ree](/assets/images/blog/3400c2_5909db8f3b274780be242569f27a4ef9~mv2.png)

@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "I wandered up winding roads through the remote countryside this week, happily stumbling upon horse farm after horse farm. The unseasonably warm weather we have had this year had l…"
 image: /assets/images/blog/3400c2_73060fdb49bd43afb7add689655ededf~mv2.png
 reading_time: 11
+categories: ["Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_73060fdb49bd43afb7add689655ededf~mv2.png)

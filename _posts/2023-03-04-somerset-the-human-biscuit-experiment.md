@@ -6,6 +6,7 @@ last_modified_at: 2023-03-04
 description: "The housekeeper of our summer parish, Mrs. Blackstone, has always been one to whom I could go to for advice or in times of trouble. I admit, however, it has been her cooking that …"
 image: /assets/images/blog/3400c2_464446496aa440fb878e82c35d024391~mv2.png
 reading_time: 4
+categories: ["Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_464446496aa440fb878e82c35d024391~mv2.png)

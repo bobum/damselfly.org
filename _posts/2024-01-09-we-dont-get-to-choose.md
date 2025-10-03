@@ -6,6 +6,7 @@ last_modified_at: 2024-01-09
 description: "LIFE'S NOT FAIR"
 image: /assets/images/blog/3400c2_c02bca80233241ac92956bcbfea42725~mv2.jpg
 reading_time: 10
+categories: ["Christianity", "Relationships"]
 ---
 
 ![ree](/assets/images/blog/3400c2_c02bca80233241ac92956bcbfea42725~mv2.jpg)

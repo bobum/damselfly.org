@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "As friends and regular readers know, I've suffered with food allergies and chronic inflammation for the last 20 years. The C19 stick made me much more ill, and I've spent the last…"
 image: /assets/images/blog/3400c2_b090867ec3194488b2e93d54efb99fd3~mv2.jpg
 reading_time: 6
+categories: ["Food & Travel", ["Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/3400c2_b090867ec3194488b2e93d54efb99fd3~mv2.jpg)

@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "I'll never forget where I was the moment I realized I was different from some of my peers. I didn't feel I was better or worse, just different. We all had our own lanes to go down"
 image: /assets/images/blog/11062b_45f438b76e014f868315638eb9d5e1c5~mv2.jpg
 reading_time: 14
+categories: ["Christianity", "Relationships"]
 ---
 
 ![ree](/assets/images/blog/11062b_45f438b76e014f868315638eb9d5e1c5~mv2.jpg)

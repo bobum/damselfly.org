@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Casey Hendrix Oct 22, 2023 4 min read"
 image: /assets/images/blog/3400c2_1ea6333f755a4cc8a5bd4c5ef08000b2~mv2.png
 reading_time: 5
+categories: ["Christianity", "Food & Travel", "Virus & Stick Recovery/Prevention"]
 ---
  
 *   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)

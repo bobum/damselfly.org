@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "I wrote this a few years ago and thought it was worth another share:"
 image: /assets/images/blog/3400c2_afccbaf5f50f4fe3a8b578de8b974173~mv2.jpg
 reading_time: 8
+categories: ["Christianity"]
 ---
 
 I wrote this a few years ago and thought it was worth another share:

@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Over a decade ago I read a study showing these \"blue zones\" of people who live in certain geographical regions, who live to be over 100 years old. The concentration of centenarian…"
 image: /assets/images/blog/11062b_02d60a501da348379df06072a8ad4829~mv2.jpeg
 reading_time: 8
+categories: ["52 Week Blog Challenge", "Christianity", "Food & Travel", "Relationships", "Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/11062b_02d60a501da348379df06072a8ad4829~mv2.jpeg)

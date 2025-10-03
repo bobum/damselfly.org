@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Dearest friends and readers, I am forever grateful for this opportunity to contribute as a writer to the Honey Bee Press. I have long been an avid reader, so much so, in fact, I h…"
 image: /assets/images/blog/3400c2_53d7361d766345d79c51650fea3a7d4a~mv2.png
 reading_time: 6
+categories: ["Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_53d7361d766345d79c51650fea3a7d4a~mv2.png)

@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "I stand on a flat plateau, atop a mountain it took forever to climb. The years ascending now forgotten as I bake in the sweltering sun. Both the sun's unforgiving rays, and the ic…"
 image: /assets/images/blog/3400c2_0a81a0e95e0b4510b627b5b6b1c96f4e~mv2.png
 reading_time: 14
+categories: ["Christianity"]
 ---
 
 I stand on a flat plateau, atop a mountain it took forever to climb. The years ascending now forgotten as I bake in the sweltering sun. Both the sun's unforgiving rays, and the ice cold chill of the air chap my skin. My tongue is swollen and parched. My sweat stained clothes are dry and crisp, but not in a good way.

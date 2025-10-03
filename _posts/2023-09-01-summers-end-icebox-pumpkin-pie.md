@@ -6,6 +6,7 @@ last_modified_at: 2023-09-01
 description: "Are you already craving pumpkinspiceeverything, but you live in the south where it will be sweltering hot until Thanksgiving? This recipe is for you! It's cool, refreshing, and yo…"
 image: /assets/images/blog/3400c2_5f273c2ebe384e2494bf1fc9214d9e29~mv2.png
 reading_time: 2
+categories: ["Food & Travel"]
 ---
 
 ![ree](/assets/images/blog/3400c2_5f273c2ebe384e2494bf1fc9214d9e29~mv2.png)

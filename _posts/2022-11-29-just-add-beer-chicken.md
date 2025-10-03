@@ -6,6 +6,7 @@ last_modified_at: 2024-09-18
 description: "Is there anything better than the holiday season, a fire blazing on Netflix, Nat King Cole playing on Spotify and the smell of a yummy dish simmering in the kitchen? Okay, maybe a…"
 image: /assets/images/blog/3400c2_fdfb650f37c642ada2a69706c10164cd~mv2.jpg
 reading_time: 5
+categories: ["Food & Travel"]
 ---
 
 ![ree](/assets/images/blog/3400c2_fdfb650f37c642ada2a69706c10164cd~mv2.jpg)

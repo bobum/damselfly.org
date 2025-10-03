@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "Recently I sat down at a coffee house in a town I won't name. My attention was drawn to the lady in the corner who had her head down on the table and her shoes kicked off. When sh…"
 image: /assets/images/blog/11062b_13c956b216654331b4cac0c8d59a0a15~mv2.jpg
 reading_time: 6
+categories: ["Christianity"]
 ---
 
 ![ree](/assets/images/blog/11062b_13c956b216654331b4cac0c8d59a0a15~mv2.jpg)

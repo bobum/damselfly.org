@@ -6,6 +6,7 @@ last_modified_at: 2023-10-07
 description: "The older I get the more I realize walking with Jesus isn't always about getting rescued from difficult circumstances, getting wealthy, or having it easy. The prosperity gospel be…"
 image: /assets/images/blog/3400c2_f11eaf03da0b4a6d86c32d3f52268093~mv2.png
 reading_time: 5
+categories: ["Christianity", "Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_f11eaf03da0b4a6d86c32d3f52268093~mv2.png)

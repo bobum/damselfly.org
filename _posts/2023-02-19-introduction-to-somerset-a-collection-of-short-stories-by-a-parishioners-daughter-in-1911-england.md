@@ -6,6 +6,7 @@ last_modified_at: 2023-02-19
 description: "Somerset is a character I wrote about in 2016. I was sitting at my parttime, paralyzingly boring office job when a popup came on my computer screen."
 image: /assets/images/blog/3400c2_c6d52a74865a403688c9701afad31500~mv2.png
 reading_time: 8
+categories: ["Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_c6d52a74865a403688c9701afad31500~mv2.png)

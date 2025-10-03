@@ -6,6 +6,7 @@ last_modified_at: 2024-05-09
 description: "My late greataunt, Anne Jacoby, was one of the finest women I have ever known. She was not one to care about material things, but she respected them enough to take care of what ha…"
 image: /assets/images/blog/3400c2_0886887c370a49bb9ba81c042791f930~mv2.png
 reading_time: 10
+categories: ["Somerset: Fictional Short Stories"]
 ---
 
 ![ree](/assets/images/blog/3400c2_0886887c370a49bb9ba81c042791f930~mv2.png)

@@ -6,6 +6,7 @@ last_modified_at: 2024-09-17
 description: "I didn't post last week because I was traveling with my youngest child (far left) for my son & his fiance's (middle) wedding shower festivities two weekends in a row, plus we cele…"
 image: /assets/images/blog/3400c2_e93c17d0b0a947eea02b43ce3d543586~mv2.png
 reading_time: 3
+categories: ["Virus & Stick Recovery/Prevention"]
 ---
 
 ![ree](/assets/images/blog/3400c2_e93c17d0b0a947eea02b43ce3d543586~mv2.png)

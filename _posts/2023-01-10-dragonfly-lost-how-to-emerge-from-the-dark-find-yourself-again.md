@@ -6,6 +6,7 @@ last_modified_at: 2024-09-19
 description: "Imagine you're a dragonfly. You've excitedly scoped and planned out your day. You might travel to this field next to a pond, ingest some sweet mosquitos, then visit another field …"
 image: /assets/images/blog/3400c2_45b2899b2d5b4a1090fb989533897f45~mv2.png
 reading_time: 6
+categories: ["52 Week Blog Challenge"]
 ---
 
 ![ree](/assets/images/blog/3400c2_45b2899b2d5b4a1090fb989533897f45~mv2.png)

@@ -6,6 +6,7 @@ last_modified_at: 2023-03-18
 description: "When we suffer unimaginable loss or illness, or find ourselves in painful circumstances beyond our control, we have two options:"
 image: /assets/images/blog/3400c2_40199accd01240be9da5739e148b8b5d~mv2.png
 reading_time: 6
+categories: ["Christianity"]
 ---
 
 When we suffer unimaginable loss or illness, or find ourselves in painful circumstances beyond our control, we have two options:
