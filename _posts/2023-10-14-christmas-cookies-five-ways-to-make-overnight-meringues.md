@@ -7,7 +7,7 @@ description: "I grew up with my mother, Karen, making the best desserts in 97 co
 image: /assets/images/blog/3400c2_da43c6dd40d14916b15892bb060127af~mv2.png
 reading_time: 3
 ---
-# Christmas Cookies  --> Five Ways To Make Overnight Meringues 
+
 ![ree](/assets/images/blog/3400c2_da43c6dd40d14916b15892bb060127af~mv2.png)
 
 I grew up with my mother, Karen, making the best desserts in 97 counties, so I can never go wrong with taking out my family cookbook and stealing one of her recipes. This year, I decided to make a peppermint chocolate version of her **OVERNIGHT MINI CHIP MERINGUE COOKIES**. They turned out FLAWLESS!

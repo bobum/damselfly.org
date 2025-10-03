@@ -7,7 +7,7 @@ description: "I have committed to writing at least 52 blogs in 52 weeks, startin
 image: /assets/images/blog/3400c2_69082713fb5d41c4b49c9bfc0e45569f~mv2.png
 reading_time: 3
 ---
-# 52 Week Challenge Kick-Off
+
 I have committed to writing at least 52 blogs in 52 weeks, starting Thanksgiving week of 2022.
 
 ![ree](/assets/images/blog/3400c2_69082713fb5d41c4b49c9bfc0e45569f~mv2.png)

@@ -7,7 +7,7 @@ description: "Home"
 image: /assets/images/blog/3400c2_e2ed5948e2cb44aa9ee02cc9985df809~mv2.jpg
 reading_time: 2
 ---
-# Toffee Pecan Cookies
+
 *   [Home](https://www.goldenblogbycasey.com/)
     
 *   [Damselfly](https://www.goldenblogbycasey.com/about-5)

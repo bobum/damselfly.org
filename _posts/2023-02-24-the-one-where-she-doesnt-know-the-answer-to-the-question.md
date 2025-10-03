@@ -7,7 +7,7 @@ description: "There's this theory among ... well ... theorists ... who believe t
 image: /assets/images/blog/704b9ad6a6d84fbb9b2292428bdafb2d.jpg
 reading_time: 13
 ---
-# The One Where She Doesn't Know The Answer To The Question
+
 ![ree](/assets/images/blog/704b9ad6a6d84fbb9b2292428bdafb2d.jpg)
 
 There's this theory among ... well ... theorists ... who believe there is an alternate universe out there somewhere in the multiverse. For example, they believe there is another Casey \[me\] out there, living a slightly better or worst existence in an almost identical earth.

@@ -7,7 +7,7 @@ description: "I didn't post last week because I was traveling with my youngest c
 image: /assets/images/blog/3400c2_e93c17d0b0a947eea02b43ce3d543586~mv2.png
 reading_time: 3
 ---
-# Week 3 - Health Update 
+
 ![ree](/assets/images/blog/3400c2_e93c17d0b0a947eea02b43ce3d543586~mv2.png)
 
 I didn't post last week because I was traveling with my youngest child (far left) for my son & his fiance's (middle) wedding shower festivities two weekends in a row, plus we celebrated my brother's 50th birthday back home.

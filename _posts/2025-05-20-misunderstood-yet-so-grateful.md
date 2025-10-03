@@ -7,7 +7,7 @@ description: "I am a 45yearold woman who had some odds stacked against her. My o
 image: /assets/images/blog/3400c2_e966e91385ad4f91adab67ecf6f514f7~mv2.png
 reading_time: 9
 ---
-# Misunderstood, Yet So Grateful 
+
 ![ree](/assets/images/blog/3400c2_e966e91385ad4f91adab67ecf6f514f7~mv2.png)
 
 I am a 45-year-old woman who had some odds stacked against her. My own father once admitted he really didn't know how I got out of bed each day, considering how defeating life has been to me. Like millions of others, life has dealt be some unfair hands ... but in it God has blessed me with so many things to be thankful for. This morning I had planned on working on my screenplay, but I had to stop to say thanks to the God who has never failed me.

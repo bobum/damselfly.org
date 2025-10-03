@@ -7,7 +7,7 @@ description: "Author, Casey, suffering partial facial paralysis while battling S
 image: /assets/images/blog/3400c2_d894d241655b408188979b312060d688~mv2.png
 reading_time: 12
 ---
-# Casey's 2025 Health Update 
+
 ![Author, Casey, suffering partial facial paralysis while battling Shingles and Covid among Chronic Illness Woes in 2022](/assets/images/blog/3400c2_d894d241655b408188979b312060d688~mv2.png)
 
 Author, Casey, suffering partial facial paralysis while battling Shingles and Covid among Chronic Illness Woes in 2022

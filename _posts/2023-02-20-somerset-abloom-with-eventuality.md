@@ -7,7 +7,7 @@ description: "Dearest friends and readers, I am forever grateful for this opport
 image: /assets/images/blog/3400c2_53d7361d766345d79c51650fea3a7d4a~mv2.png
 reading_time: 6
 ---
-# Somerset: Abloom With Eventuality
+
 ![ree](/assets/images/blog/3400c2_53d7361d766345d79c51650fea3a7d4a~mv2.png)
 
 Dearest friends and readers, I am forever grateful for this opportunity to contribute as a writer to the _Honey Bee Press_. I have long been an avid reader, so much so, in fact, I harass our mail carrier for new edition arrivals! I never desire my words to tell you what to think. I can only hope they make you ponder life and the goodness of our God in the midst of it all.

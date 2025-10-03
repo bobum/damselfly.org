@@ -7,7 +7,7 @@ description: "I wrote this a few years ago and thought it was worth another shar
 image: /assets/images/blog/3400c2_afccbaf5f50f4fe3a8b578de8b974173~mv2.jpg
 reading_time: 8
 ---
-# Consistency: How To Maintain Your Identity, And Love, In The Midst Of A Trying World
+
 I wrote this a few years ago and thought it was worth another share:
 
 ![ree](/assets/images/blog/3400c2_afccbaf5f50f4fe3a8b578de8b974173~mv2.jpg)

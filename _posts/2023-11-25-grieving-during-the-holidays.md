@@ -7,7 +7,7 @@ description: "Yesterday I took part in a \"Grieving During the Holidays\" class 
 image: /assets/images/blog/3400c2_7434bd5600be4f6fba862f8af4680413~mv2.png
 reading_time: 4
 ---
-# Grieving During the Holidays
+
 ![ree](/assets/images/blog/3400c2_7434bd5600be4f6fba862f8af4680413~mv2.png)
 
 Yesterday I took part in a **"Grieving During the Holidays"** class at work. I was reminded I'm not the only one grieving this year, even though it feels like it sometimes. Friends have lost children, coworkers have to get used to their kids being grown and living away from home (I'm one of them!). Matriarchs and patriarchs pass away, and the next generation must pick up the mantle and carry on for the children. Family dynamics change, and so traditions must, as well. Change is hard.

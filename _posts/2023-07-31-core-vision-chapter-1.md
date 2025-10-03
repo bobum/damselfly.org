@@ -7,7 +7,7 @@ description: "I stand on a flat plateau, atop a mountain it took forever to clim
 image: /assets/images/blog/3400c2_0a81a0e95e0b4510b627b5b6b1c96f4e~mv2.png
 reading_time: 14
 ---
-# Core Vision - Chapter 1
+
 I stand on a flat plateau, atop a mountain it took forever to climb. The years ascending now forgotten as I bake in the sweltering sun. Both the sun's unforgiving rays, and the ice cold chill of the air chap my skin. My tongue is swollen and parched. My sweat stained clothes are dry and crisp, but not in a good way.
 
 The journey up forced me to lose everything. I said goodbye to people I loved, beautiful souls who couldn't make the trip or died from the elements along the way. We marched through spring, summer, autumn and winter, weathering the elements and storms so determined to end our lives. We slowly, but surely, shed ourselves of those things that held us back. It started with some of the items in our backpack, and progressed to things like our sock, shoes and the need for each other.

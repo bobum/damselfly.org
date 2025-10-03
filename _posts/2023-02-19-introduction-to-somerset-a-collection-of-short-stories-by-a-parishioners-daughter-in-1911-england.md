@@ -7,7 +7,7 @@ description: "Somerset is a character I wrote about in 2016. I was sitting at my
 image: /assets/images/blog/3400c2_c6d52a74865a403688c9701afad31500~mv2.png
 reading_time: 8
 ---
-# Introduction to Somerset: A Collection of Short Stories by a Parishioner's Daughter in 1911 England
+
 ![ree](/assets/images/blog/3400c2_c6d52a74865a403688c9701afad31500~mv2.png)
 
 **Somerset** is a character I wrote about in 2016. I was sitting at my part-time, paralyzingly boring office job when a pop-up came on my computer screen.

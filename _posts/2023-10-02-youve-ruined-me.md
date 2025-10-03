@@ -7,7 +7,7 @@ description: "I used to live in Nashville, and I have had many singersongwriter 
 image: /assets/images/blog/37d5d08a03074b9a91969aa16741a088.jpg
 reading_time: 2
 ---
-# You've Ruined Me
+
 ![ree](/assets/images/blog/37d5d08a03074b9a91969aa16741a088.jpg)
 
 I used to live in Nashville, and I have had many singer-songwriter friends over the years. My bother is a professional musician. I could never boast any of their talent, but once in a while I'll hear a whole new song in my head. Usually they're coming of age tales of lessons learned. As someone who has survived a narcissistic relationship, and has suffered many setbacks, my songs always sound a bit country in my head.

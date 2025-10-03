@@ -7,7 +7,7 @@ description: "When we suffer unimaginable loss or illness, or find ourselves in 
 image: /assets/images/blog/3400c2_40199accd01240be9da5739e148b8b5d~mv2.png
 reading_time: 6
 ---
-# Groundhog Day: What To Do When There's No Escape
+
 When we suffer unimaginable loss or illness, or find ourselves in painful circumstances beyond our control, we have two options:
 
 **OPTION ONE:**

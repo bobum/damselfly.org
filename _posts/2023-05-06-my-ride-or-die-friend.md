@@ -7,7 +7,7 @@ description: "FRIEND: Definition"
 image: /assets/images/blog/3400c2_8b7d31d807e545a5b5ccb3688767f482~mv2.png
 reading_time: 16
 ---
-# My Ride-Or-Die Friend
+
 ![ree](/assets/images/blog/3400c2_8b7d31d807e545a5b5ccb3688767f482~mv2.png)
 
 **FRIEND: Definition**

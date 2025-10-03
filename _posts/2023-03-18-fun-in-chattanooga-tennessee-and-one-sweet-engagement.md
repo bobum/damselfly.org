@@ -7,7 +7,7 @@ description: "This past weekend my son, Chandler, decided to propose to his girl
 image: /assets/images/blog/3400c2_667455a16d3a474e9a7cf8b7f2dc59d6~mv2.png
 reading_time: 11
 ---
-# Fun in Chattanooga, Tennessee, and One Sweet Engagement!
+
 ![ree](/assets/images/blog/3400c2_667455a16d3a474e9a7cf8b7f2dc59d6~mv2.png)
 
 This past weekend my son, Chandler, decided to propose to his girlfriend of seven years, Cadie. I knew he was planning the proposal, as I had gone shopping with him for the ring the weekend after Thanksgiving. It was fun watching him pick out the perfect ring for his perfect girl, and even more fun to see him exclaim with excitement, _"That's the one!"_

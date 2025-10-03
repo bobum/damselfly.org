@@ -7,7 +7,7 @@ description: "There weren't always dragons in the Valley. Hard to believe it now
 image: /assets/images/blog/3400c2_434554912c98491598bdc078daa9201e~mv2.png
 reading_time: 10
 ---
-# The Barren Land of Hellfire & Brimstone
+
 ![ree](/assets/images/blog/3400c2_434554912c98491598bdc078daa9201e~mv2.png)
 
 There weren't always dragons in the Valley. Hard to believe it now, but my mother, Kelsie, and my Aunt, Katie, grew up in San Fernando. They, like many children of Hollywood's elite, were twins born via surrogate, raised in a type of privilege most of us only know of by thumbing through old, surviving copies of celebrity style and gossip magazines. They were born before The Flare.

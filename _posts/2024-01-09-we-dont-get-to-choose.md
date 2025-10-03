@@ -7,7 +7,7 @@ description: "LIFE'S NOT FAIR"
 image: /assets/images/blog/3400c2_c02bca80233241ac92956bcbfea42725~mv2.jpg
 reading_time: 10
 ---
-# We Don't Get To Choose
+
 ![ree](/assets/images/blog/3400c2_c02bca80233241ac92956bcbfea42725~mv2.jpg)
 
 **LIFE'S NOT FAIR**

@@ -7,7 +7,7 @@ description: "Casey Hendrix Oct 22, 2023 4 min read"
 image: /assets/images/blog/3400c2_1ea6333f755a4cc8a5bd4c5ef08000b2~mv2.png
 reading_time: 5
 ---
-# Week One Results - Experimental Covid-19 Recovery Protocol 
+ 
 *   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)
 *   Oct 22, 2023
 *   4 min read

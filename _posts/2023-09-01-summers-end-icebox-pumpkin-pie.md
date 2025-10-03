@@ -7,7 +7,7 @@ description: "Are you already craving pumpkinspiceeverything, but you live in th
 image: /assets/images/blog/3400c2_5f273c2ebe384e2494bf1fc9214d9e29~mv2.png
 reading_time: 2
 ---
-# Summer's End Icebox Pumpkin Pie
+
 ![ree](/assets/images/blog/3400c2_5f273c2ebe384e2494bf1fc9214d9e29~mv2.png)
 
 Are you already craving pumpkin-spice-everything, but you live in the south where it will be sweltering hot until Thanksgiving? This recipe is for you! It's cool, refreshing, and you can even substitute the Whipped Topping for the Fat-Free or Sugar-Free versions of Whipped Topping to make it a tad bit healthier.

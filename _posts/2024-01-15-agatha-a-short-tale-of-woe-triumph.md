@@ -7,7 +7,7 @@ description: "\"Deeply hurt by the death of her mother, thirtyfiveyearold Agatha
 image: /assets/images/blog/3400c2_18fe8fd4f8894bf8a4e9a533dd77dab0~mv2.jpg
 reading_time: 3
 ---
-# Agatha, A Short Tale of Woe & Triumph
+
 ![ree](/assets/images/blog/3400c2_18fe8fd4f8894bf8a4e9a533dd77dab0~mv2.jpg)
 
 "Deeply hurt by the death of her mother, thirty-five-year-old Agatha Christie was still trying to overcome her grief when her husband of twelve years suddenly announced that he was in love with another woman and wanted a divorce. The twin shocks threw Agatha into a deep state of depression. Feeling that the best of life was behind her, she saw little reason to go on living. Only concern for her seven-year-old daughter saved her from suicide.

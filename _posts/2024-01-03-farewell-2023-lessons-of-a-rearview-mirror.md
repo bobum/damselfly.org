@@ -7,7 +7,7 @@ description: "Don't ask how a watch works. Just keep a watch on the time."
 image: /assets/images/blog/25ded0e4f26346818be6e88171081160.jpg
 reading_time: 10
 ---
-# Farewell 2023 - Lessons Of A Rearview Mirror
+
 ![ree](/assets/images/blog/25ded0e4f26346818be6e88171081160.jpg)
 
 Don't ask how a watch works. Just keep a watch on the time.

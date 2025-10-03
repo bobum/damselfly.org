@@ -7,7 +7,7 @@ description: "I know a thing or two about having to start over and some of the t
 image: /assets/images/blog/3400c2_beae35f7bcd34c1faebfd5fde67b547d~mv2.png
 reading_time: 15
 ---
-# Starting Over: Part II
+
 ![ree](/assets/images/blog/3400c2_beae35f7bcd34c1faebfd5fde67b547d~mv2.png)
 
 I know a thing or two about having to start over and some of the things that can keep you from being able to move forward from the past.

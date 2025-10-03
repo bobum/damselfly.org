@@ -7,7 +7,7 @@ description: "Frank T. Hopkins, was an American Horseman who is \"reputed to hav
 image: /assets/images/blog/3400c2_5909db8f3b274780be242569f27a4ef9~mv2.png
 reading_time: 9
 ---
-# Let Go, Cowboy ... 'er Cowgirl ...
+
 ![ree](/assets/images/blog/3400c2_5909db8f3b274780be242569f27a4ef9~mv2.png)
 
 [**Frank T. Hopkins**](https://en.wikipedia.org/wiki/Frank_Hopkins)**,** was an American Horseman who is "reputed to have won more than 400 long-distance races" (Wikipedia). A movie named after his beloved mustang horse, [**Hidalgo**](https://en.wikipedia.org/wiki/Hidalgo_\(film\)), was made into a feature length movie of the same name. Hopkins told tales of many horrors he witnessed, including the massacre of the American Indians at [**Wounded Knee**](https://en.wikipedia.org/wiki/Wounded_Knee_Massacre). This was especially hard on him considering he claimed to be half-Indian himself. It was reported he also traveled with the circus and wild west shows across the globe, with his greatest adventure being a 3,000 mile long-distance horse race across the Najd desert region of Saudi Arabia.

@@ -7,7 +7,7 @@ description: "I was sitting at a women's conference at the Sun Dome in Tampa, FL
 image: /assets/images/blog/3400c2_3339e4497d44403d8417fbac1e65710d~mv2.png
 reading_time: 2
 ---
-# Love Your Life by Pastor Sara Jakes
+
 ![ree](/assets/images/blog/3400c2_3339e4497d44403d8417fbac1e65710d~mv2.png)
 
 I was sitting at a women's conference at the Sun Dome in Tampa, FL in March of 2005 when T.D. Jakes preached a message. I don't recall the message, albeit life altering. His messages always are. He's been dubbed the G.O.A.T. among American preachers.

@@ -7,7 +7,7 @@ description: "Each Christmas since 2006 I have watched the beloved Nancy Meyers 
 image: /assets/images/blog/3400c2_a01e1cb0e6e649a08ac4c774b0aa0864~mv2.jpg
 reading_time: 6
 ---
-# Iris, Amanda, Graham & Miles
+
 ![ree](/assets/images/blog/3400c2_a01e1cb0e6e649a08ac4c774b0aa0864~mv2.jpg)
 
 Each Christmas since 2006 I have watched the beloved Nancy Meyers film, "The Holiday."

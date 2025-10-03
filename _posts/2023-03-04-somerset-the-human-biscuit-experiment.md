@@ -7,7 +7,7 @@ description: "The housekeeper of our summer parish, Mrs. Blackstone, has always 
 image: /assets/images/blog/3400c2_464446496aa440fb878e82c35d024391~mv2.png
 reading_time: 4
 ---
-# Somerset: The Human Biscuit Experiment 
+
 ![ree](/assets/images/blog/3400c2_464446496aa440fb878e82c35d024391~mv2.png)
 
 The housekeeper of our summer parish, Mrs. Blackstone, has always been one to whom I could go to for advice or in times of trouble. I admit, however, it has been her cooking that keeps me coming back repeatedly. She keeps fresh biscuits baked daily when we are in house, and makes us hot tea with fresh vanilla flavored cream. She concocts the sweetened cream from the cows she has milked herself. I do not know where she acquires her vanilla beans from, and I do not care. I am all too overjoyed she has them!

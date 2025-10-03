@@ -7,7 +7,7 @@ description: "Starting over is something we all have to embrace at one point or 
 image: /assets/images/blog/3400c2_beae35f7bcd34c1faebfd5fde67b547d~mv2.png
 reading_time: 9
 ---
-# Starting Over - Part I
+
 ![ree](/assets/images/blog/3400c2_beae35f7bcd34c1faebfd5fde67b547d~mv2.png)
 
 Starting over is something we all have to embrace at one point or another. Sometimes it isn't starting a new job, moving to a new city, or surviving a divorce. **Sometimes it's as simple as adopting a new mindset.**

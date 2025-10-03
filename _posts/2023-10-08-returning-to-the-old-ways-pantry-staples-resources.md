@@ -7,10 +7,6 @@ description: "Casey Hendrix Oct 8, 2023 4 min read"
 image: /assets/images/blog/3400c2_0e1801483d8a414e9d697248774af3c6~mv2.png
 reading_time: 8
 ---
-# Returning To The Old Ways - Pantry Staples & Resources
-*   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)
-*   Oct 8, 2023
-*   4 min read
 
 ![ree](/assets/images/blog/3400c2_0e1801483d8a414e9d697248774af3c6~mv2.png)
 

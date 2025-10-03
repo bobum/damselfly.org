@@ -7,7 +7,7 @@ description: "Home"
 image: /assets/images/blog/3400c2_e5578fb91fd946fc977f5093d09e7638~mv2.jpg
 reading_time: 2
 ---
-# A Simple Truth
+
 *   [Home](https://www.goldenblogbycasey.com/)
     
 *   [Damselfly](https://www.goldenblogbycasey.com/about-5)

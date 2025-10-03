@@ -7,7 +7,7 @@ description: "The older I get the more I realize walking with Jesus isn't always
 image: /assets/images/blog/3400c2_f11eaf03da0b4a6d86c32d3f52268093~mv2.png
 reading_time: 5
 ---
-# Some Won't Get ...
+
 ![ree](/assets/images/blog/3400c2_f11eaf03da0b4a6d86c32d3f52268093~mv2.png)
 
 The older I get the more I realize walking with Jesus isn't always about getting rescued from difficult circumstances, getting wealthy, or having it easy. The prosperity gospel being preached in the last few decades bothers me to my core. Mainly because my life hasn't worked out all that great. When I was twenty, sitting in church being told everything was going to be wonderful in my life if I just did everything right and paid tithes, I couldn't have possibly imagined how bad my life could possibly get.

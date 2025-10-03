@@ -7,7 +7,7 @@ description: "This week my 52week blog assignment was to write about winter. I h
 image: /assets/images/blog/3400c2_49a59e037aab4726b35d696f344fb807~mv2.jpg
 reading_time: 5
 ---
-# Starting Over - Part II - Onward & Upward: Reality & Relationships
+
 ![ree](/assets/images/blog/3400c2_49a59e037aab4726b35d696f344fb807~mv2.jpg)
 
 This week my 52-week blog assignment was to write about winter. I hate winter. Having had a chronic pain disorder since the age of 24, I despise cold, wet weather. I long to move somewhere where the humidity is low. Georgia is always damp, regardless of the season. The pain, thus, dampens my enthusiasm for the cold.

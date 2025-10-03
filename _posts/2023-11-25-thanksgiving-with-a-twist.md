@@ -7,7 +7,7 @@ description: "As friends and regular readers know, I've suffered with food aller
 image: /assets/images/blog/3400c2_b090867ec3194488b2e93d54efb99fd3~mv2.jpg
 reading_time: 6
 ---
-# Thanksgiving with a Twist 
+
 ![ree](/assets/images/blog/3400c2_b090867ec3194488b2e93d54efb99fd3~mv2.jpg)
 
 As friends and regular readers know, I've suffered with food allergies and chronic inflammation for the last 20 years. The C19 stick made me much more ill, and I've spent the last few months eating clean and living as peacefully stress-free as possible.

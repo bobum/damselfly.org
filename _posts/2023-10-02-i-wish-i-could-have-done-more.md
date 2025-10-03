@@ -7,7 +7,7 @@ description: "Recently I sat down at a coffee house in a town I won't name. My a
 image: /assets/images/blog/11062b_13c956b216654331b4cac0c8d59a0a15~mv2.jpg
 reading_time: 6
 ---
-# I Wish I Could Have Done More
+
 ![ree](/assets/images/blog/11062b_13c956b216654331b4cac0c8d59a0a15~mv2.jpg)
 
 Recently I sat down at a coffee house in a town I won't name. My attention was drawn to the lady in the corner who had her head down on the table and her shoes kicked off. When she did lift up her head, her eyes were sunken back in her head. Her clothes were nice, and she seemed very clean. Her expression and body language said she was in distress. She also had several bags with her, as if she didn't have a permanent home. I knew something wasn't well with her.

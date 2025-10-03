@@ -7,7 +7,7 @@ description: "I can hardly believe it's been a year since I've posted in my blog
 image: /assets/images/blog/3400c2_85b708df777c457d8dc713dbdc921e4d~mv2.png
 reading_time: 21
 ---
-# What A Year!
+
 I can hardly believe it's been a year since I've posted in my blog! 2024's been a whirlwind of excitement that has brought so much happiness to our family, so I thought I'd share.
 
 ![Me struggling in 2023 ... health and financial struggles were relentless. Click here to see a pic of me now.](/assets/images/blog/3400c2_85b708df777c457d8dc713dbdc921e4d~mv2.png)

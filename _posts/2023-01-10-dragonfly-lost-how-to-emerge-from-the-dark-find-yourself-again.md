@@ -7,7 +7,7 @@ description: "Imagine you're a dragonfly. You've excitedly scoped and planned ou
 image: /assets/images/blog/3400c2_45b2899b2d5b4a1090fb989533897f45~mv2.png
 reading_time: 6
 ---
-# Dragonfly Lost: How To Emerge From The Dark & Find Yourself Again
+
 ![ree](/assets/images/blog/3400c2_45b2899b2d5b4a1090fb989533897f45~mv2.png)
 
 Imagine you're a dragonfly. You've excitedly scoped and planned out your day. You might travel to this field next to a pond, ingest some sweet mosquitos, then visit another field for dessert. You might run into a predator or two, but you're not worried because you're fast and you can change direction faster than any creature on earth. You're the OG helicopter ... created by God Himself.

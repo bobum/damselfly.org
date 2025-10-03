@@ -7,7 +7,7 @@ description: "My late greataunt, Anne Jacoby, was one of the finest women I have
 image: /assets/images/blog/3400c2_0886887c370a49bb9ba81c042791f930~mv2.png
 reading_time: 10
 ---
-# Somerset: That Girl, and Her Big, Fat, Meaty Heart
+
 ![ree](/assets/images/blog/3400c2_0886887c370a49bb9ba81c042791f930~mv2.png)
 
 My late great-aunt, Anne Jacoby, was one of the finest women I have ever known. She was not one to care about material things, but she respected them enough to take care of what had been freely given her. Her father had left her, his only surviving child, a large sum of money, and a grand home on the coast near Bath.

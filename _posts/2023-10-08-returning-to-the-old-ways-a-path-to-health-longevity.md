@@ -7,7 +7,7 @@ description: "Over a decade ago I read a study showing these \"blue zones\" of p
 image: /assets/images/blog/11062b_02d60a501da348379df06072a8ad4829~mv2.jpeg
 reading_time: 8
 ---
-# Returning to the Old Ways - A Path to Health & Longevity 
+
 ![ree](/assets/images/blog/11062b_02d60a501da348379df06072a8ad4829~mv2.jpeg)
 
 Over a decade ago I read a study showing these "blue zones" of people who live in certain geographical regions, who live to be over 100 years old. The concentration of centenarians in these villages were disproportionately higher than other parts of the world. They also had an almost 0% rate of dementia, diabetes and health disorders plaguing countries like mine.

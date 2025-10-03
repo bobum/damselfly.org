@@ -7,7 +7,7 @@ description: "I wandered up winding roads through the remote countryside this we
 image: /assets/images/blog/3400c2_73060fdb49bd43afb7add689655ededf~mv2.png
 reading_time: 11
 ---
-# Somerset: The Wounded and the Wild
+
 ![ree](/assets/images/blog/3400c2_73060fdb49bd43afb7add689655ededf~mv2.png)
 
 I wandered up winding roads through the remote countryside this week, happily stumbling upon horse farm after horse farm. The unseasonably warm weather we have had this year had left the grass a vivid green in most places. The damp wooden fences outlining the multi-thousand acre spread hinted at the pretentious side of Kentucky, or so I have read.

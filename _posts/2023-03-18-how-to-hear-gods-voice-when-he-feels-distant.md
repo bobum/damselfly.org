@@ -7,7 +7,7 @@ description: "Casey Hendrix Dec 21, 2022 1 min read"
 image: /assets/images/blog/default.jpg
 reading_time: 1
 ---
-# How to Hear God's Voice When He Feels Distant
+
 *   [Casey Hendrix](https://www.goldenblogbycasey.com/profile/casey-m-hendrix/profile)
 *   Dec 21, 2022
 *   1 min read

@@ -7,7 +7,7 @@ description: "In the 2014 movie Interstellar), Matthew McConaughey is a father w
 image: /assets/images/blog/3400c2_6eea027ea17a46c3a752d6dfd22fe79b~mv2.jpg
 reading_time: 6
 ---
-# Don't You Give Up On Me: Waiting for God Through Time & Space
+
 ![ree](/assets/images/blog/3400c2_6eea027ea17a46c3a752d6dfd22fe79b~mv2.jpg)
 
 In the 2014 movie [Interstellar](https://en.wikipedia.org/wiki/Interstellar_\(film\)), Matthew McConaughey is a father who must leave his children behind on earth while he ascends to the Heavenlies to go ahead and prepare a place for them. Earth has become uninhabitable, and time is short. He promises his kids he will return for them. But, when 20+ years pass and he still hasn't returned, and circumstances have only grown worse, his daughter, played by Jessica Chastain, becomes very bitter towards her dad for not coming back to save her, her brother and his family.
