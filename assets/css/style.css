@@ -19710,4 +19710,48 @@ body.white-version .rn-btn-ulderline {
 .white-version .slider-style-6 .cd-headline span {
   color: var(--color-white) !important;
 }
+
+/* --- The main container --- */
+#fiction-background-fader {
+  /* This is REQUIRED for z-index to work on the child elements */
+  position: relative;
+  /* Fallback color if images fail to load */
+  background-color: #1a1a1a;
+	z-index: 0;
+}
+
+/* --- The BACKGROUND layers --- */
+#fiction-background-fader::before,
+#fiction-background-fader::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; width: 100%; height: 100%;
+
+  /* CRITICAL FIX: Push these layers BEHIND the parent's content */
+  z-index: -1;
+
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+  transition: opacity 5s ease-in-out;
+}
+
+/* --- The CONTENT layer --- */
+.fader-content-wrapper {
+  /* CRITICAL FIX: Lift the content ON TOP of the background */
+  position: relative;
+  z-index: 1;
+}
+
+/* --- The CSS variables for the fader logic (this part remains the same) --- */
+#fiction-background-fader::before {
+  background-image: var(--bg-image-before);
+}
+#fiction-background-fader::after {
+  background-image: var(--bg-image-after);
+  opacity: 0;
+}
+#fiction-background-fader.fade-in-after::after {
+  opacity: 1;
+}
 /*# sourceMappingURL=../maps/style.css.map */
