@@ -3,6 +3,20 @@ layout: fiction_landing
 title: Fiction
 ---
 
+        <style>
+            /* Align hero text with the site palette (match series page colors):
+               heading -> --color-lightn, body copy -> --color-body */
+            #fiction-background-fader .content .inner .title,
+            #fiction-background-fader .content .inner .title span,
+            #fiction-background-fader .content .inner .title .span {
+                color: var(--color-lightn);
+            }
+            #fiction-background-fader .content .inner .description {
+                color: var(--color-body);
+                opacity: 1;
+            }
+        </style>
+
         <!-- Start Slider Area -->
         <div id="home" class="rn-slider-area">
             <div id="fiction-background-fader" class="slide slider-style-4 bg_image">
