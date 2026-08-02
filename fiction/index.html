@@ -1,0 +1,87 @@
+---
+layout: fiction_landing
+title: Fiction
+---
+
+        <!-- Start Slider Area -->
+        <div id="home" class="rn-slider-area">
+            <div id="fiction-background-fader" class="slide slider-style-4 bg_image">
+                    <div class="fader-content-wrapper">
+                        <div class="container">
+                            <div class="row">
+                                <div class="order-2 order-lg-1 col-lg-9 col-xl-7">
+                                    <div class="content">
+                                        <div class="inner mb_sm--80">
+                                            <h1 class="title">Stories of Faith, <span>Family</span><br> <span
+                                                    class="span">and Grace</span></h1>
+                                            <div>
+                                                <p class="description">By faith I live, and by faith I write.
+                                                        These are stories of ordinary people finding hope in extraordinary places—
+                                                        tales of love, loss, redemption, and the quiet miracles of everyday life.
+                                                        Come and explore the worlds I've been given to tell.</p>
+                                            </div>
+                                        </div>
+                                        <div class="row ">
+                                            <div class="col-lg-12 col-xl-6 col-md-12 col-sm-12 col-12">
+                                                <div class="social-share-inner-left">
+                                                    <span class="title">find me with</span>
+                                                    <ul class="social-share d-flex liststyle">
+                                                        <li class="facebook"><a href="https://www.facebook.com/casey.m.hutcheson"><i data-feather="facebook"></i></a>
+                                                        </li>
+                                                        <li class="instagram"><a href="https://www.instagram.com/casey.goldenblog/"><i data-feather="instagram"></i></a>
+                                                        </li>
+                                                        <li class="linkedin"><a href="https://www.linkedin.com/in/casey-hutcheson-success/"><i data-feather="linkedin"></i></a>
+                                                        </li>
+                                                    </ul>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+            </div>
+        </div>
+        <!-- End Slider Area -->
+
+{% assign sorted_works = site.works | sort: 'order' %}
+{% for work in sorted_works %}
+
+        <!-- Start Work Area -->
+        <div id="{{ work.slug }}" class="rn-about-area rn-section-gap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true"
+                            class="image-area">
+                            <div class="thumbnail">
+                                <a href="{{ site.baseurl }}{{ work.url }}"><img src="{{ work.cover_image }}" alt="{{ work.title }}"></a>
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true"
+                        class="col-lg-7 mt_sm--30">
+                        <div class="contant">
+                            <div class="section-title text-left">
+                                <span class="subtitle">{{ work.tagline }}</span>
+                                <h2 class="title">{{ work.title }}</h2>
+                            </div>
+                            {{ work.back_cover_text  | markdownify  }}
+                            <div class="text-center">
+                                <p><a class="rn-btn" href="{{ site.baseurl }}{{ work.url }}"><span>SEE MORE</span></a></p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Work Area -->
+{% endfor %}
+        <!-- Back to  top Start -->
+        <div class="backto-top">
+            <div>
+                <i data-feather="arrow-up"></i>
+            </div>
+        </div>
+        <!-- Back to top end -->

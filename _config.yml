@@ -1,0 +1,48 @@
+# _config.yml
+title: "Casey Davis"
+tagline: "Chiristian, Wife, Mother, Author"
+description: "Casey Davis — Chiristian, Wife, Mother, Author" # Helps SEO
+baseurl: ""                   # Critical for GitHub Pages
+url: "https://damselfly.org" # Your live URL
+
+collections:
+  # Primary collection: top-level fiction projects (series and standalone novels)
+  # displayed on the homepage #fiction section and the /fiction landing page.
+  works:
+    output: true                      # Creates a page for each item (a series landing page)
+    permalink: /fiction/:path/        # URL: /fiction/willowbrook-chronicles/
+
+  # Individual books that belong inside a series, linked via 'series_id'.
+  books:
+    output: true                      # Creates a page for each individual book
+    permalink: /fiction/:path/        # URL: /fiction/willowbrook-chronicles/light-in-the-valley/
+
+  characters:
+    output: false
+
+  lore:
+    output: false
+
+permalink: /blog/:title/
+excerpt_separator: "<!--more-->"
+
+# Liquid filter (replaces plugin)
+liquid:
+  filters:
+    reading_time: |
+      def reading_time(input)
+        words = input.to_s.gsub(/<[^>]*>/, '').split.size # Strip HTML tags
+        minutes = (words / 180.0).ceil
+        "#{minutes} min read"
+      end
+
+plugins:
+  - jekyll-seo-tag  # Auto-generates meta tags
+  - jekyll-sitemap
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post

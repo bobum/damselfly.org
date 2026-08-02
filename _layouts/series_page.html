@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    {% seo %}
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <!-- Favicon -->
+    <link rel="shortcut icon" type="image/x-icon" href="/assets/images/favicon.ico">
+    <!-- CSS
+    ============================================ -->
+    <link rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slick.css">
+    <link rel="stylesheet" href="/assets/css/vendor/slick-theme.css">
+    <link rel="stylesheet" href="/assets/css/vendor/aos.css">
+    <link rel="stylesheet" href="/assets/css/plugins/feature.css">
+    <!-- Style css -->
+    <link rel="stylesheet" href="/assets/css/style.css">
+</head>
+
+<body class="white-version home-classic spybody" data-spy="scroll" data-bs-target=".navbar-example2" data-offset="150">
+{% assign books_in_series = site.books | where:"series_id", page.slug | sort:"book_number" %}
+    <!-- Start Main Page Wrapper -->
+    <main class="main-page-wrapper spybody" data-spy="scroll" data-bs-target=".navbar-example2" data-offset="150">
+        <!-- Start Header -->
+        <header class="rn-header haeder-default black-logo-version header--fixed header--sticky rn-d-none">
+            <div class="header-wrapper m--0 rn-popup-mobile-menu row align-items-center">
+                <!-- Start Header Left -->
+                <div class="col-lg-2 col-6">
+                    <div class="header-left">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="/assets/images/logo/logo-dark.png" alt="logo">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <!-- End Header Left -->
+                <!-- Start Header Center -->
+                <div class="col-lg-10 col-6">
+                    <div class="header-center">
+                        <nav id="sideNav" class="mainmenu-nav navbar-example2 onepagenav">
+                            <!-- Start Mainmanu Nav -->
+                            <ul class="primary-menu nav nav-pills">
+                                <li class="nav-item current"><a class="nav-link smoth-animation" href="#home">Home</a></li>
+                                {% for book in books_in_series %}
+                                <li class="nav-item"><a class="nav-link smoth-animation" href="#{{book.slug}}">{{book.title}}</a></li>
+                                 {% endfor %}
+                                <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
+                                <li class="nav-item"><a class="nav-link" href="/fiction/">Fiction</a></li>
+                            </ul>
+                            <!-- End Mainmanu Nav -->
+                        </nav>
+                        <!-- Start Header Right  -->
+                        <div class="header-right">
+                            <a class="rn-btn no-shadow" href="/#contacts"><span>CONTACT ME</span></a>
+                            <i id="menuBtn" class="feather-menu humberger-menu d-block d-xl-none"></i>
+                            <div class="close-menu d-block">
+                                <span class="closeTrigger">
+                                    <i data-feather="x"></i>
+                                </span>
+                            </div>
+                        </div>
+                        <!-- End Header Right  -->
+                    </div>
+                </div>
+                <!-- End Header Center -->
+            </div>
+        </header>
+        <!-- End Header Area -->
+
+        <!-- Start Popup Mobile Menu  -->
+        <div class="popup-mobile-menu">
+            <div class="inner">
+                <div class="menu-top">
+                    <div class="menu-header">
+                        <a class="logo" href="/">
+                            <img src="/assets/images/logo/logos-circle.png" alt="Damselfly">
+                        </a>
+                        <div class="close-button">
+                            <button class="close-menu-activation close"><i data-feather="x"></i></button>
+                        </div>
+                    </div>
+                    <p class="discription">{{ page.title }} | {{ site.title }}</p>
+                </div>
+                <div class="content">
+                    <ul class="primary-menu nav nav-pills onepagenav">
+                        <li class="nav-item current"><a class="nav-link smoth-animation" href="#home">Home</a></li>
+                        {% for book in books_in_series %}
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#{{book.slug}}">{{book.title}}</a></li>
+                        {% endfor %}
+                        <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
+                        <li class="nav-item"><a class="nav-link" href="/fiction/">Fiction</a></li>
+                    </ul>
+                    <!-- social sharea area -->
+                    <div class="social-share-style-1 mt--40">
+                        <span class="title">find me with</span>
+                        <ul class="social-share d-flex liststyle">
+                            <li class="facebook"><a href="https://www.facebook.com/casey.m.hutcheson"><i data-feather="facebook"></i></a></li>
+                            <li class="instagram"><a href="https://www.instagram.com/casey.goldenblog/"><i data-feather="instagram"></i></a></li>
+                            <li class="linkedin"><a href="https://www.linkedin.com/in/casey-hutcheson-success/"><i data-feather="linkedin"></i></a></li>
+                        </ul>
+                    </div>
+                    <!-- end -->
+                </div>
+            </div>
+        </div>
+        <!-- End Popup Mobile Menu  -->
+
+        <!-- Start Slider Area -->
+        <div id="home" class="rn-slider-area">
+            <!-- Start Single Slide -->
+            <div class="slide slider-style-4 bg_image--12"
+                style="background-color:#000;background-repeat: no-repeat;background-position: center center;background-image: url({{ page.splash_image }});">
+                <div class="container">
+                    <div class="row justify-content-center text-center">
+                        <div class="order-2 order-lg-1 col-lg-9 col-xl-7">
+                            <div class="content">
+                                <div
+                                    class="inner fashion-designer-inner model mb--0 mt--180 mt_lg--5 mt_md--5 mt_sm--5 text-center">
+                                    <h1 class="title">{{ page.title | upcase }} SERIES</h1>
+                                    <p class="disc fd-lorem">{{ page.tagline }}</p>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- End Single Slide -->
+        </div>
+        <!-- End Slider Area -->
+
+
+        <!-- Start about Area -->
+        <div id="about" class="rn-about-area rn-section-gap section-separator">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-5">
+                        <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true"
+                            class="image-area">
+                            <div class="thumbnail">
+                                <img src="{{ page.cover_image }}" alt="">
+                            </div>
+                        </div>
+                    </div>
+                    <div data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100" data-aos-once="true"
+                        class="col-lg-7 mt_sm--30">
+                        <div class="contant">
+                            <div class="section-title text-left">
+                                <span class="subtitle">{{ page.tagline_alt }}</span>
+                                <h2 class="title">{{ page.title }}</h2>
+                            </div>
+                            {{ page.content }}
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End about Area -->
+
+        <div class="bg-image-area-fitness attachment bg_image" style="background-image: url({{ page.cover_image }});"></div>
+
+        <!-- Start Experience area -->
+        <div id="experiences" class="rn-experience-area section-separator rn-section-gap">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true"
+                            class="section-title text-center">
+                            <span class="subtitle">Visit all the books in the {{ page.title }} Series</span>
+                            <h2 class="title">Books In The Series</h2>
+                        </div>
+                    </div>
+                </div>
+                <div class="row mt--10">
+                    <div class="col-12 mt_experience">
+{% for book in books_in_series %}
+                        <!-- single skills -->
+                        <div data-aos="fade-up" id="{{ book.slug }}" data-aos-duration="500" data-aos-delay="100" data-aos-once="true"
+                            class="experience-style-two">
+                            <div class="experience-left">
+                                <div class="experience-image">
+                                    <img src="{{ book.cover_image }}" alt="{{ book.title }}">
+                                </div>
+                                <div class="experience-center" style="flex: 1;">
+                                    <span class="date">{{ book.genre }}</span>
+                                    <h4 class="experience-title">
+                                        {{ book.title }}
+                                    </h4>
+                                    <h6 class="subtitle">
+                                        {{ book.tagline }}
+                                    </h6>
+                                    <p class="disc">{{ book.quick_description }}</p>
+                                </div>
+                            </div>
+                            <div class="experience-right">
+                                <div class="experience-footer">
+                                    <a class="rn-btn" href="{{ site.baseurl }}{{ book.url }}"><span>See More</span></a>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- single skills -->
+{% endfor %}
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Experience area -->
+
+        <div class="bg-image-area-fitness attachment bg_image"  style="background-image: url({{ page.back_cover_image }});"></div>
+
+        <!-- Start Cast of Characters Area -->
+        <div id="cast-of-characters" class="rn-client-area rn-client-style-2 rn-section-gap section-separator">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12">
+                        <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-aos-once="true"
+                            class="section-title text-center">
+                            <span class="subtitle">Meet the Cast</span>
+                            <h2 class="title">Cast of Characters</h2>
+                        </div>
+                        <div class="skill-style-1">
+                            <div class="client-card">
+{% for character in site.characters %}
+{% if character.in_series contains page.slug %}
+                                <!-- Start Single Brand  -->
+                                <div data-aos="fade-up" data-aos-duration="500" data-aos-delay="100" data-bs-toggle="modal" data-bs-target="#{{ character.slug}}"
+                                    data-aos-once="true" class="main-content" style="cursor: pointer;">
+                                    <div class="inner text-center">
+                                        <div class="thumbnail">
+                                            <a href="javascript:void(0)"><img src="{{ site.baseurl }}{{ character.thumbnail }}"
+                                                    alt="{{ character.name }}" style="border-radius: 8px;"></a>
+                                        </div>
+                                        <div class="seperator"></div>
+                                        <div class="client-name"><span><a href="#client">{{ character.name }}</a></span>
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- End Single Brand  -->
+{% endif %}
+{% endfor %}
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- end Cast of Characters Area -->
+
+
+{% for character in site.characters %}
+{% if character.in_series contains page.slug %}
+        <!-- Modal Lore Body area Start -->
+        <div class="modal fade" id="{{ character.slug}}" tabindex="-1" role="dialog" aria-hidden="true">
+            <div class="modal-dialog modal-dialog-centered" role="document">
+                <div class="modal-content">
+                    <div class="modal-header">
+                        <button type="button" class="close" data-bs-dismiss="modal" aria-label="Close">
+                            <span aria-hidden="true"><i data-feather="x"></i></span>
+                        </button>
+                    </div>
+                    <div class="modal-body">
+                        <div class="row align-items-center">
+
+                            <div class="col-lg-6">
+                                <div class="portfolio-popup-thumbnail">
+                                    <div class="image" style="max-height: 690px;overflow: hidden;border-radius: 10px;">
+                                        <img class="w-100" src="{{ site.baseurl }}{{ character.portrait }}" alt="{{ character.name }}">
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-lg-6">
+                                <div class="text-content">
+                                    <h3>
+                                        <span>{{ character.tagline }}</span>{{ character.name }}
+                                    </h3>
+                                    <div class="mb--30">
+                                        {{ character.quick_description }}
+                                    </div>
+                                    <h3>
+                                        <span>Books Where You Can Find Me</span>
+                                    </h3>
+
+                                    <div class="button-group mt--20">
+                                        {% for book_slug in character.in_books %}
+                                        {% assign book = site.books | where:"slug", book_slug | first %}
+                                        <a href="{{ site.baseurl }}{{ book.url }}" class="rn-btn">
+                                            <span>{{ book.title }}</span>
+                                            <i data-feather="chevron-right"></i>
+                                        </a>
+                                        {% endfor %}
+                                    </div>
+                                </div>
+                                <!-- End of .text-content -->
+                            </div>
+                        </div>
+                        <!-- End of .row Body-->
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- End Modal Lore area -->
+{% endif %}
+{% endfor %}
+        <!-- Back to  top Start -->
+        <div class="backto-top">
+            <div>
+                <i data-feather="arrow-up"></i>
+            </div>
+        </div>
+        <!-- Back to top end -->
+
+    </main>
+
+    <!-- Start Footer Area -->
+    <div class="rn-footer-area rn-section-gap section-separator">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="footer-area text-center">
+                        <div class="logo">
+                            <a href="/">
+                                <img src="/assets/images/logo/logo-dark.png" alt="logo">
+                            </a>
+                        </div>
+                        <p class="description mt--30">© 2025. All rights reserved by <a target="_blank"
+                                href="https://themeforest.net/user/rainbow-themes/portfolio">Rainbow-Themes.</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- End Footer Area -->
+    <!-- JS ============================================ -->
+    <script src="/assets/js/vendor/jquery.js"></script>
+    <script src="/assets/js/vendor/modernizer.min.js"></script>
+    <script src="/assets/js/vendor/feather.min.js"></script>
+    <script src="/assets/js/vendor/slick.min.js"></script>
+    <script src="/assets/js/vendor/bootstrap.js"></script>
+    <script src="/assets/js/vendor/text-type.js"></script>
+    <script src="/assets/js/vendor/wow.js"></script>
+    <script src="/assets/js/vendor/aos.js"></script>
+    <script src="/assets/js/vendor/particles.js"></script>
+    <script src="/assets/js/vendor/jquery-one-page-nav.js"></script>
+    <!-- main JS -->
+    <script src="/assets/js/main.js"></script>
+</body>
+
+</html>
