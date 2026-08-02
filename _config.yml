@@ -10,12 +10,12 @@ collections:
   # displayed on the homepage #fiction section and the /fiction landing page.
   works:
     output: true                      # Creates a page for each item (a series landing page)
-    permalink: /fiction/:path/        # URL: /fiction/willowbrook-chronicles/
+    permalink: /fiction/:path/        # URL: /fiction/the-stars-remember/
 
   # Individual books that belong inside a series, linked via 'series_id'.
   books:
     output: true                      # Creates a page for each individual book
-    permalink: /fiction/:path/        # URL: /fiction/willowbrook-chronicles/light-in-the-valley/
+    permalink: /fiction/:path/        # URL: /fiction/the-stars-remember/wendy-and-wanderlust/
 
   characters:
     output: false

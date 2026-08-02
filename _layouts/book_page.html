@@ -23,6 +23,10 @@
 {% assign books_in_series = site.books | where:"series_id", page.slug | sort:"book_number" %}
 {% assign series = site.works | where:"slug", page.series_id | first %}
 {% assign book_timeline = site.data.book_timelines[page.slug] %}
+{% assign book_cast = "" | split: "" %}
+{% for character in site.characters %}{% for appearance in character.in_books %}{% if appearance.book == page.slug %}{% assign book_cast = book_cast | push: character.slug %}{% endif %}{% endfor %}{% endfor %}
+{% assign book_lore = "" | split: "" %}
+{% for item in site.lore %}{% if item.in_books contains page.slug %}{% assign book_lore = book_lore | push: item.slug %}{% endif %}{% endfor %}
     <!-- Start Main Page Wrapper -->
     <main class="main-page-wrapper spybody" data-spy="scroll" data-bs-target=".navbar-example2" data-offset="150">
         <!-- Start Header -->
@@ -47,9 +51,9 @@
                             <ul class="primary-menu nav nav-pills">
                                 <li class="nav-item current"><a class="nav-link smoth-animation" href="#home">Home</a></li>
                                 <li class="nav-item"><a class="nav-link smoth-animation" href="#about">About</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="#lore">Lore</a></li>
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="#timeline">Timeline</a></li>
+                                {% if book_cast.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>{% endif %}
+                                {% if book_lore.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#lore">Lore</a></li>{% endif %}
+                                {% if book_timeline and book_timeline.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#timeline">Timeline</a></li>{% endif %}
                                 <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ series.url }}">{{ series.title }} Series</a></li>
                             </ul>
                             <!-- End Mainmanu Nav -->
@@ -90,9 +94,9 @@
                     <ul class="primary-menu nav nav-pills onepagenav">
                         <li class="nav-item current"><a class="nav-link smoth-animation" href="#home">Home</a></li>
                         <li class="nav-item"><a class="nav-link smoth-animation" href="#about">About</a></li>
-                        <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
-                        <li class="nav-item"><a class="nav-link smoth-animation" href="#lore">Lore</a></li>
-                        <li class="nav-item"><a class="nav-link smoth-animation" href="#timeline">Timeline</a></li>
+                        {% if book_cast.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>{% endif %}
+                        {% if book_lore.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#lore">Lore</a></li>{% endif %}
+                        {% if book_timeline and book_timeline.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#timeline">Timeline</a></li>{% endif %}
                         <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ series.url }}">{{ series.title }} Series</a></li>
                     </ul>
                     <!-- social sharea area -->
@@ -162,6 +166,7 @@
 
         <div class="bg-image-area-fitness attachment bg_image" style="background-image: url({{ page.cover_image }});"></div>
 
+{% if book_cast.size > 0 %}
 <!-- Start Portfolio Area -->
         <div class="rn-portfolio-area rn-section-gap" id="cast-of-characters">
             <div class="container">
@@ -264,7 +269,9 @@
             </div>
         </div>
         <!-- End portfolio Area -->
+        {% endif %}
 
+        {% if book_lore.size > 0 %}
         <div class="bg-image-area-fitness attachment bg_image"  style="background-image: url({{ page.back_cover_image }});"></div>
 
         <!-- Start Lore Area -->
@@ -332,7 +339,9 @@
             </div>
         </div>
         <!-- End portfolio Area -->
+        {% endif %}
 
+        {% if book_timeline and book_timeline.size > 0 %}
         <!-- Start Timeline Area -->
         <div class="rn-resume-area rn-section-gap section-separator" id="timeline">
             <div class="container">
@@ -393,6 +402,7 @@
             </div>
         </div>
         <!-- End Resume Area -->
+        {% endif %}
 
 {% for character in site.characters %}
             {% for appearance in character.in_books %}

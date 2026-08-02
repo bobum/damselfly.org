@@ -21,6 +21,8 @@
 
 <body class="white-version home-classic spybody" data-spy="scroll" data-bs-target=".navbar-example2" data-offset="150">
 {% assign books_in_series = site.books | where:"series_id", page.slug | sort:"book_number" %}
+{% assign series_cast = "" | split: "" %}
+{% for character in site.characters %}{% if character.in_series contains page.slug %}{% assign series_cast = series_cast | push: character.slug %}{% endif %}{% endfor %}
     <!-- Start Main Page Wrapper -->
     <main class="main-page-wrapper spybody" data-spy="scroll" data-bs-target=".navbar-example2" data-offset="150">
         <!-- Start Header -->
@@ -47,7 +49,7 @@
                                 {% for book in books_in_series %}
                                 <li class="nav-item"><a class="nav-link smoth-animation" href="#{{book.slug}}">{{book.title}}</a></li>
                                  {% endfor %}
-                                <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
+                                {% if series_cast.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>{% endif %}
                                 <li class="nav-item"><a class="nav-link" href="/fiction/">Fiction</a></li>
                             </ul>
                             <!-- End Mainmanu Nav -->
@@ -90,7 +92,7 @@
                         {% for book in books_in_series %}
                         <li class="nav-item"><a class="nav-link smoth-animation" href="#{{book.slug}}">{{book.title}}</a></li>
                         {% endfor %}
-                        <li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>
+                        {% if series_cast.size > 0 %}<li class="nav-item"><a class="nav-link smoth-animation" href="#cast-of-characters">Cast</a></li>{% endif %}
                         <li class="nav-item"><a class="nav-link" href="/fiction/">Fiction</a></li>
                     </ul>
                     <!-- social sharea area -->
@@ -208,6 +210,7 @@
         </div>
         <!-- End Experience area -->
 
+        {% if series_cast.size > 0 %}
         <div class="bg-image-area-fitness attachment bg_image"  style="background-image: url({{ page.back_cover_image }});"></div>
 
         <!-- Start Cast of Characters Area -->
@@ -247,6 +250,7 @@
             </div>
         </div>
         <!-- end Cast of Characters Area -->
+        {% endif %}
 
 
 {% for character in site.characters %}
